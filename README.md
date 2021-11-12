@@ -1,5 +1,18 @@
 # Bang Browser Extension
 
+
+
+
+## This is my personal fork of the excelllent bang repo.
+## I have made it significantly faster and added my own mappings
+## Still a WIP
+
+
+
+
+
+
+
 ## What is Bang?
 
 > This is a project that was inspired by [DuckDuckGo's Bang Feature](https://duckduckgo.com/bang). If you want the experience of this extension, but at the same time a private search history, I'd recommend to use DuckDuckGo as your primary search engine. _(By the way, if you are an Employee at DuckDuckGo and disagree with this open-source project, please let me know)_
